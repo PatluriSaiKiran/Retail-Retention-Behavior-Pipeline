@@ -11,7 +11,3 @@ In the retail industry, customer acquisition costs are significantly higher than
 1. **RFM Customer Segmentation:** Categorizing customers dynamically based on how recently they purchased (**Recency**), how often they buy (**Frequency**), and how much they spend (**Monetary Value**).
 2. **Cohort Retention Analysis:** Tracking monthly customer "birth cohorts" to measure how customer retention percentages degrade over a 12-month lifecycle.
 3. **Product Velocity Drivers:** Identifying the top-selling product lines by volume to help optimize inventory and supply chain decisions.
-
----
-
-## 🏗️ Data Architecture & Pipeline Flow

@@ -38,3 +38,9 @@ In the retail industry, customer acquisition costs are significantly higher than
   * *Action:* Deploy an automated email campaign featuring tailored discounts on their past favorite categories to reduce churn.
 * **Fix Month-2 Drop-offs:** Identified a sharp, repeating drop in active buyers exactly 30 days after their first transaction.
   * *Action:* Introduce an automated post-purchase incentive trigger 25 days after onboarding to encourage a second visit.
+
+ ## Dashboard Preview
+<img width="1273" height="705" alt="Screenshot 2026-05-31 205253" src="https://github.com/user-attachments/assets/c9815986-5a8d-4572-86bf-0387896d02d6" />
+<img width="1282" height="715" alt="Screenshot 2026-05-31 205337" src="https://github.com/user-attachments/assets/febea3e5-0985-4d35-bbab-e0bd869c14da" />
+
+
